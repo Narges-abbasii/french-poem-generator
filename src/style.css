@@ -1,9 +1,6 @@
 body {
   background-color: #f9f7fe;
-  font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 a {
